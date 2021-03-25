@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @YannicAudenaerde
+- 👀 I’m interested in Data analytics
+- 🌱 I’m currently learning Python
